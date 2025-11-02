@@ -1,2 +1,4 @@
-premiere_seance/.ipynb_checkpoints/*
-seconde_seance/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
+*.py
+.idea
+*.csv
